@@ -23,6 +23,10 @@ UniVision: A Unified Framework for Vision-Centric 3D Perception
 
 [[paper]](https://arxiv.org/pdf/2401.06994.pdf) [[code]](https://github.com/Cc-Hy/UniVision)
 
+OPUS: Occupancy Prediction Using a Sparse Set
+
+[[paper]](https://arxiv.org/abs/2409.09350) [[code]](https://github.com/jbwang1997/OPUS)
+
 ### 2023
 
 Fully Sparse 3D Panoptic Occupancy Prediction
